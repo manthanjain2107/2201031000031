@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./i-phone-14-15-pro-max-6.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Joti One:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-6">
+      <img class="download-1-icon5" alt="" src="./public/download-1@2x.png" />
+
+      <img
+        class="download-4-icon3"
+        loading="lazy"
+        alt=""
+        src="./public/download-4@2x.png"
+        id="download4Image"
+      />
+
+      <h1 class="omkareshwar2">Omkareshwar</h1>
+      <main class="frame-with-downloads">
+        <img class="download-7-icon" alt="" src="./public/download-7@2x.png" />
+
+        <section class="temple-text1">
+          <div class="temple-text-child"></div>
+          <div class="omkareshwar-is-a-hindu-container">
+            <p class="omkareshwar-is-a-hindu">Omkareshwar is a hindu Tamples</p>
+            <p class="dedicated-to-shiva-located">
+              dedicated to Shiva, located in 
+            </p>
+            <p class="mandhata-nearby-khandwa-city">
+              Mandhata, nearby Khandwa City in 
+            </p>
+            <p class="khandwa-district-of-the-india">
+              Khandwa district of the India state
+            </p>
+            <p class="of-madhya-pradesh">of Madhya pradesh.</p>
+            <p class="it-is-one1"> It is one of the 12 revered jyotirlingas </p>
+            <p class="shrines-of-shivait">
+              shrines of Shiva.It is on an island
+            </p>
+            <p class="called-mandhata-near-khandwa">
+              called Mandhata, near Khandwa city 
+            </p>
+            <p class="in-the-narmada-river-at">
+              in the Narmada river at Khandwa
+            </p>
+            <p class="district-in-madhya">district in Madhya pradesh,</p>
+            <p class="india-the-shape">
+              India; the shape of the island is said
+            </p>
+            <p class="to-be-like-the-devanagari-sym">
+              to be like the Devanagari
+              <a
+                class="a2"
+                href="https://en.wikipedia.org/wiki/Om"
+                target="_blank"
+              >
+                <span class="span2">ॐ</span> </a
+              > symbol.
+            </p>
+          </div>
+        </section>
+      </main>
+      <div class="empty-frame1">
+        <div class="location-marker1" id="locationMarker"></div>
+        <h1 class="location4">location</h1>
+      </div>
+    </div>
+
+    <script>
+      var download4Image = document.getElementById("download4Image");
+      if (download4Image) {
+        download4Image.addEventListener("click", function (e) {
+          window.location.href = "./i-phone1415-pro-max1.html";
+        });
+      }
+      
+      var locationMarker = document.getElementById("locationMarker");
+      if (locationMarker) {
+        locationMarker.addEventListener("click", function () {
+          window.open("https://maps.app.goo.gl/y9VchW96Aosqrio16");
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,96 @@
+.download-1-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.indian {
+  height: 121px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.indian-label {
+  width: 319px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+.temples {
+  align-self: stretch;
+  height: 116px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: darken;
+  z-index: 1;
+  margin-top: -6px;
+}
+.parent-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-72xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
+.rectangle-shape {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 70px;
+  background-color: var(--color-gainsboro-100);
+  mix-blend-mode: exclusion;
+  cursor: pointer;
+  z-index: 1;
+}
+.explore {
+  position: relative;
+  z-index: 2;
+  margin-left: -196px;
+}
+.explore-button,
+.iphone-14-15-pro-max-1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.explore-button {
+  width: 226px;
+  height: 67px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 31px 0 0;
+}
+.iphone-14-15-pro-max-1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 294px var(--padding-xl) 52px var(--padding-10xl);
+  gap: 288px 0;
+  text-align: center;
+  font-size: 45px;
+  color: var(--color-white);
+  font-family: var(--font-joti-one);
+}

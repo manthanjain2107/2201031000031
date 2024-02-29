@@ -1,0 +1,182 @@
+.download-1-icon6 {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.download-1-icon6,
+.download-4-icon4,
+.kedarnath2 {
+  margin: 0 !important;
+  position: absolute;
+}
+.download-4-icon4 {
+  width: 57px;
+  height: 57px;
+  top: 83px;
+  left: 20px;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+  z-index: 1;
+}
+.kedarnath2 {
+  width: 393px;
+  height: 73px;
+  top: 81px;
+  right: -12px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.download-8-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.second-child-rectangle-child {
+  height: 425px;
+  width: 430px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.kedarnath-temple-one,
+.the-temple-is1,
+.votive-stupa-of-aviokitehwar {
+  margin: 0;
+}
+.span3 {
+  text-decoration: underline;
+}
+.a3 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+.conditions-the-temple,
+.general-public-only,
+.himalyan-range-near-the-mandak,
+.india-due-to,
+.river-in-the {
+  margin: 0;
+}
+.months-of-april {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.form-of-shiva,
+.is-carried-down,
+.kedarnath-is-seen,
+.the-historical-name,
+.the-wintersthe-vigrah-of-the,
+.worshipped-for-the {
+  margin: 0;
+}
+.kedarnath-temple-one-container {
+  position: relative;
+  z-index: 2;
+}
+.second-child-rectangle {
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-lgi) 16px 1px 25px;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
+.download-icon {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inner-frame-wrapper,
+.inner-frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+.inner-frame1 {
+  width: 435px;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.inner-frame-wrapper {
+  justify-content: flex-end;
+}
+.inner-rectangle {
+  align-self: stretch;
+  width: 281px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  mix-blend-mode: exclusion;
+  cursor: pointer;
+  z-index: 1;
+}
+.location5 {
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+  margin: 0 0 0-234px;
+}
+.location-label2 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.iphone-14-15-pro-max-7,
+.location-label-container {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.location-label-container {
+  width: 310px;
+  height: 70px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-10xl) 0 0;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.iphone-14-15-pro-max-7 {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-146xl) 0 var(--padding-4xl);
+  gap: 10px 0;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}

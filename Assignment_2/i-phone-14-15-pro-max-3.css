@@ -1,0 +1,188 @@
+.download-1-icon2,
+.wrapper-download-1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+}
+.download-1-icon2 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  top: 8px;
+  transform: scale(1.016);
+}
+.wrapper-download-1 {
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-31xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.download-4-icon {
+  width: 57px;
+  height: 57px;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+  z-index: 1;
+}
+.download-4-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 15px;
+}
+.somnath2 {
+  margin: 0;
+  width: 378px;
+  height: 108px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.inner-frame,
+.somnath-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.somnath-wrapper {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+}
+.inner-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 0 0 var(--padding-xl);
+  text-align: center;
+  font-size: 70px;
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
+.download-3-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-div {
+  height: 403px;
+  width: 430px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.it-is-one,
+.it-is-unclear,
+.located-in-prabhas-patan,
+.the-somanath-temple-is {
+  margin: 0;
+}
+.span {
+  text-decoration: underline;
+}
+.a {
+  color: inherit;
+}
+.the-temple-was-reconstructed-s {
+  margin: 0;
+}
+.the-somanath-temple-is-container {
+  height: 54px;
+  width: 402px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-div {
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-17xl) var(--padding-sm);
+  box-sizing: border-box;
+  min-height: 403px;
+  z-index: 1;
+}
+.background-rectangle,
+.container-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.background-rectangle {
+  align-items: flex-start;
+  margin-top: -9px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
+.container-frame {
+  align-items: flex-end;
+}
+.child-rectangle {
+  align-self: stretch;
+  width: 281px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  mix-blend-mode: exclusion;
+  cursor: pointer;
+  z-index: 1;
+}
+.location1 {
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+  margin: 0 0 0-234px;
+}
+.iphone-14-15-pro-max-3,
+.location-label1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.location-label1 {
+  width: 321px;
+  height: 70px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+}
+.iphone-14-15-pro-max-3 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: center;
+  padding: 65px 0 40px;
+  gap: 16px 0;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-joti-one);
+}

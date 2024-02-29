@@ -1,0 +1,147 @@
+.download-1-icon8 {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.download-1-icon8,
+.download-4-icon6,
+.vishveshwar2 {
+  margin: 0 !important;
+  position: absolute;
+}
+.download-4-icon6 {
+  width: 57px;
+  height: 57px;
+  top: 83px;
+  left: 20px;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+  z-index: 1;
+}
+.vishveshwar2 {
+  width: 393px;
+  height: 73px;
+  top: 81px;
+  right: -12px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.download-10-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-child1 {
+  height: 413px;
+  width: 430px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.span4 {
+  text-decoration: underline;
+}
+.a4 {
+  color: inherit;
+}
+.hindu-piligram-site-and,
+.iast-vivantha-and-vivevar,
+.in-vishwanath-gali,
+.kashi-vishwanath-temple-is-a-h,
+.literally-meaning-lord-of,
+.presiding-deity-is,
+.temple-dedicated-to-shiva-it,
+.the-twelve-jyotirlinga-shrines,
+.uttar-pradesh-india,
+.vishwanath-and-vishweshwara {
+  margin: 0;
+}
+.kashi-vishwanath-temple-is-container {
+  position: relative;
+  z-index: 2;
+}
+.frame-section {
+  flex: 1;
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-17xl) var(--padding-xl) var(--padding-17xl) 17px;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
+.download-10-parent {
+  align-self: stretch;
+  height: 665px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 281px;
+  height: 70px;
+  mix-blend-mode: exclusion;
+  cursor: pointer;
+  z-index: 1;
+}
+.location7 {
+  margin: 0;
+  position: absolute;
+  top: 2px;
+  left: 47px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.rectangle-frame-parent {
+  width: 281px;
+  height: 70px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.iphone-14-15-pro-max-9 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 154px 0 var(--padding-19xl);
+  box-sizing: border-box;
+  gap: 5px 0;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-joti-one);
+}
